@@ -5,19 +5,19 @@ criaCartao(
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'FORMULA 1 ',
+    'Quem é o melhor piloto?',
+    'MAX VERSTAPPEN'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'futebol',
+    'Quem é o maior da historia?',
+    'CR7 siuuuuuuuuuuuuuu'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Como se se elogia uma mulher em ingles?',
+    'gurl, your eyes are so pretty for me they look like stars, be my wife PLSSSS'
 )
